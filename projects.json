@@ -1,0 +1,215 @@
+{
+  "intro": {
+    "name": "Kelsey O'Briant",
+    "descriptor": "Creative Director",
+    "bio": "I am a Creative Director, formerly an Art Director, formerly a child. I work at Fallon in Minneapolis, making things up in my brain, on my computer, and sometimes on airplanes.",
+    "image": "img/KELSEYSITE_0003_ALL.avif",
+    "imageAlt": "Kelsey O'Briant intro image"
+  },
+  "contact": {
+    "heading": "I'm a Creative Director, formerly an Art Director, formerly a Child.",
+    "blurb": "My partner [Tanner](https://tanneruselmann.party/) and I work at [Fallon](https://fallon.com/) in Minneapolis, MN. They mostly have us using our imaginations, going on the computer, and getting on airplanes.",
+    "details": "Minneapolis is the fourth best place in the world after my childhood home in Houston, Disneyland in Anaheim, and the American Girl Doll Store in Chicago.",
+    "emailLabel": "ELECTRONICALLY MAIL ME:",
+    "location": "",
+    "email": "kelseyobriant@gmail.com",
+    "image": "img/KELSEYSITE_About.webp",
+    "imageAlt": "Collage image for Kelsey O'Briant about section"
+  },
+  "projects": [
+    {
+      "title": "Once A Princess, Always A Princess",
+      "role": "Creative Director",
+      "blurb": "A short film made by friends, for friends. A love letter to the magic of girlhood and moviemaking, with no corners cut.",
+      "tags": "Disney",
+      "madeWith": [
+        "Tanner Uselmann",
+        "Leslie Shaffer",
+        "Peter McCann",
+        "Kelsey Ayres",
+        "Meredith Zander",
+        "Brandon Fields",
+        "Chad Koehnen"
+      ],
+      "broughtToLifeBy": [
+        "Alex Prager",
+        "Paul Rogers",
+        "Corey Martin",
+        "Noise Studios"
+      ],
+      "videos": [
+        {
+          "label": "Main Film",
+          "url": "https://player.vimeo.com/video/1219652241"
+        },
+        {
+          "label": "Behind The Scenes",
+          "url": "https://player.vimeo.com/video/1219652242"
+        }
+      ]
+    },
+    {
+      "title": "Drawn To You",
+      "role": "Creative Director",
+      "blurb": "There is no limit to what Wish Kids can wish for. So learning that half of all Make-A-Wish wishes are Disney wishes floored me. We made this work to honor not just the granting of the wish, but the genesis of it. Joy and creativity are as good for us as any medicine.",
+      "tags": "Disney x Make-A-Wish",
+      "madeWith": [
+        "Derek Camitsch",
+        "Joan Heo",
+        "Tanner Uselmann",
+        "Leslie Shaffer",
+        "Patrick Gantert",
+        "Courtney Reistad",
+        "Meredith Zander",
+        "Brandon Fields",
+        "Chad Koehnen"
+      ],
+      "broughtToLifeBy": [
+        "Goh Iromoto",
+        "Dylan Edwards",
+        "Andrew West"
+      ],
+      "videos": [
+        "https://player.vimeo.com/video/1219652232"
+      ]
+    },
+    {
+      "title": "Want The World",
+      "role": "Creative Director",
+      "blurb": "The Venetian is a Las Vegas resort with gondolas inside. This is not a normal place. My inner Veruca Salt (you know, the horrible greedy brat from Willy Wonka) began singing on my first visit. So she made it into the ads.",
+      "tags": "The Venetian",
+      "madeWith": [
+        "Christine Taffe",
+        "Patrick Gantert",
+        "Jesse Thompson"
+      ],
+      "broughtToLifeBy": [
+        "Kinopravda",
+        "Jesse Thompson"
+      ],
+      "videos": [
+        "https://player.vimeo.com/video/1219652243"
+      ]
+    },
+    {
+      "title": "Pusha T: Rib Roast",
+      "role": "Creative Director",
+      "blurb": "Some things you might not know:\n1. Pusha T loves Arby's\n2. Pusha T hates McDonalds because he wrote the \"I'm Lovin' It\" jingle and they didn’t pay him what he was owed.\n\nRevenge is best served on a bun, on a mechanical bull, in an Arby’s parking lot.",
+      "tags": "Arby's",
+      "madeWith": [
+        "Tanner Uselmann",
+        "Joe Johnson",
+        "Mike Behrends",
+        "Sam Tuttle",
+        "Aldo Hertz"
+      ],
+      "broughtToLifeBy": [
+        "Collin Goodspeed",
+        "Jesse Thompson",
+        "Pusha T",
+        "Ezekiel Mitchell"
+      ],
+      "videos": [
+        "https://player.vimeo.com/video/1219652220"
+      ]
+    },
+    {
+      "title": "Be Our Guest",
+      "role": "Creative Director",
+      "blurb": "Moms make it all happen. But what if, for once, we made it happen for her? An ode to every Princess, big or small, old or young, in a castle or in a world of their own imagination. Music by the nicest/genius-est man in showbiz, Jacob Collier.",
+      "tags": "Disney",
+      "madeWith": [
+        "Tanner Uselmann",
+        "Leslie Shaffer",
+        "Peter McCann",
+        "Zoe Quadflieg",
+        "Kathryn Rogan",
+        "Chad Koehnen"
+      ],
+      "broughtToLifeBy": [
+        "The Friedman Sisters",
+        "Mah Ferraz",
+        "Jacob Collier",
+        "Untold Studios"
+      ],
+      "videos": [
+        "https://player.vimeo.com/video/1219652223"
+      ]
+    },
+    {
+      "title": "More Babies, Please",
+      "role": "Creative Director",
+      "blurb": "Millennials are not having very many babies compared to every single generation before them. This is an especially big problem for classic yellow box Cheerios, because their target market is babies. People still aren’t having as many babies, but at least Cheerios sales went up 7% after running this spot during the Grammys.",
+      "tags": "Cheerios",
+      "madeWith": [
+        "Christine Taffe",
+        "Jason Bottenus",
+        "Erin Kirby",
+        "Steven George"
+      ],
+      "videos": [
+        "https://player.vimeo.com/video/1219652240"
+      ]
+    },
+    {
+      "title": "We Like How You Party",
+      "role": "Creative Director",
+      "blurb": "I like it international, and I expect to be delighted. I have never had more fun at work than I did making these. If your name is Karen and you did the wardrobe for these, please contact me. I love you and I miss you.",
+      "tags": "International Delight",
+      "madeWith": [
+        "Christine Taffe",
+        "Patrick Figueroa",
+        "Erin Kirby"
+      ],
+      "broughtToLifeBy": [
+        "Martin Granger",
+        "Kyle Brown"
+      ],
+      "videos": [
+        {
+          "label": "Ding Dong",
+          "url": "https://player.vimeo.com/video/1219652231"
+        },
+        {
+          "label": "Macchiato",
+          "url": "https://player.vimeo.com/video/1219652236"
+        },
+        {
+          "label": "Treat",
+          "url": "https://player.vimeo.com/video/1219652245"
+        },
+        {
+          "label": "Wake Up",
+          "url": "https://player.vimeo.com/video/1219652267"
+        }
+      ]
+    },
+    {
+      "title": "Keep Your Body Working",
+      "role": "Creative Director",
+      "blurb": "Facials aren't scary or a big deal. Especially if you do little ones, a little more often. Here are some famous and charming comedians to walk you through that whole thing.",
+      "tags": "Massage Envy",
+      "madeWith": [
+        "Christine Taffe",
+        "Joe Johnson",
+        "Patrick Gantert"
+      ],
+      "broughtToLifeBy": [
+        "Dave McCarry",
+        "Brian Gannon",
+        "Vanessa Bayer",
+        "Arturo Castro"
+      ],
+      "videos": [
+        {
+          "label": "Vanessa",
+          "url": "https://player.vimeo.com/video/1219652251"
+        },
+        {
+          "label": "Arturo",
+          "url": "https://player.vimeo.com/video/1219652221"
+        }
+      ]
+    }
+  ]
+}
