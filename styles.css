@@ -516,13 +516,15 @@ h1 {
   justify-self: end;
   margin-left: -18%;
   margin-right: -8%;
+  width: min(100%, clamp(440px, 54vw, 920px));
   z-index: 1;
 }
 
 .contact-visual img {
   display: block;
-  width: 115%;
-  max-width: none;
+  width: 100%;
+  max-width: 100%;
+  max-height: min(72dvh, 780px);
   height: auto;
   object-fit: contain;
 }
@@ -863,22 +865,23 @@ h1 {
   }
 
   .intro .panel-inner.intro-image-only {
-    align-content: start;
-    padding-top: clamp(54px, 6vw, 104px);
-    padding-bottom: clamp(24px, 3vw, 40px);
+    align-content: center;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .intro-image-only .intro-media img {
-    max-height: calc(100svh - clamp(96px, 10vw, 180px));
+    max-height: calc(100dvh - clamp(96px, 10vw, 180px));
   }
 
   .contact-visual {
-    max-width: none;
+    max-width: min(100%, clamp(520px, 56vw, 980px));
   }
 
   .contact-visual img {
-    width: 115%;
-    max-width: none;
+    width: 100%;
+    max-width: 100%;
+    max-height: min(70dvh, 760px);
   }
 
   .contact-copy {
@@ -905,12 +908,13 @@ h1 {
   }
 
   .contact-visual {
-    max-width: none;
+    max-width: min(100%, clamp(560px, 52vw, 1020px));
   }
 
   .contact-visual img {
-    width: 115%;
-    max-width: none;
+    width: 100%;
+    max-width: 100%;
+    max-height: min(68dvh, 760px);
   }
 }
 
@@ -921,12 +925,13 @@ h1 {
   }
 
   .intro .panel-inner.intro-image-only {
-    padding-top: clamp(24px, 3vw, 44px);
-    padding-bottom: clamp(12px, 2vw, 24px);
+    align-content: center;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .intro-image-only .intro-media img {
-    max-height: calc(100svh - clamp(64px, 7vw, 110px));
+    max-height: calc(100dvh - clamp(64px, 7vw, 110px));
   }
 
   .contact-shell {
