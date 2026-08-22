@@ -1,8 +1,8 @@
 :root {
-  --bg: #f6eee1;
+  --bg: #fdfbf8;
   --fg: #171717;
   --muted: #5c5c5c;
-  --line: #d9d3c7;
+  --line: #ece9e3;
   --font-body: "Instrument Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-display: "Fraunces", Georgia, serif;
   --gutter: clamp(18px, 2.2vw, 28px);
